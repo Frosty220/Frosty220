@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+  <img width="100%" src="https://github-stats-card-peach.vercel.app/api/card?username=Frosty220&card=readme&theme=midnight_city&tagline=Full-stack+developer+%26+open-source+tinkerer&about=-+%F0%9F%94%AD+I%27m+currently+working+on+something+fun%0A-+%F0%9F%8C%B1+I%27m+learning+new+things+every+day%0A-+%F0%9F%92%AC+Ask+me+about+anything+JavaScript&twitter=&linkedin=&instagram=&website=&animated=true&bg_anim=stars" alt="README profile card" />
+
+  <img width="100%" src="https://github-stats-card-peach.vercel.app/api/card?username=Frosty220&card=combined&cards=langs%2Cstreak%2Cstats%2Crepos&tech=javascript%2Ccplusplus%2Ckotlin%2Cphp%2Cpostgresql%2Csupabase&theme=midnight_city&bg_anim=stars&v=mwpsukaw" alt="GitHub Stats" />
+
 <!--
 **Frosty220/Frosty220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
